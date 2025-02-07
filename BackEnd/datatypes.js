@@ -21,6 +21,7 @@ const updatetodo=zod.object({
 })
 
 //Exporting the both zod validation objects.
+//If we are exporting using module.exports then we need to use require in the other file to import the module.
 module.exports={
     createtodo:createtodo,
     updatetodo:updatetodo

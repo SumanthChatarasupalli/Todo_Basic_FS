@@ -9,7 +9,7 @@ It contains:
 -a user can add their todos.
 
 
-//WhenEver we create a project 
+WhenEver we create a project 
 1st start with backend 
 create a backend folder
 then intialize a package.json file by using npm init command.
